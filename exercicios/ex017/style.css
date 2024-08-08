@@ -1,0 +1,7 @@
+@charset "UTF-8";
+*{
+  height: 100%;
+}
+body{
+  background-image: linear-gradient( to right, #f2c57c,#ddae7e,#7fb685);
+}
